@@ -11,7 +11,9 @@ thats why i took research
 
 **- Reduce♻️:** Using or consuming resources efficiently and less in amount to minimise the waste.
     For example: 
-    - Turn off lights when you're not using it, it'll help Reducing air and light pollution
+    - Turn off lights when you're not using it, it'll help Reducing air and light pollution 
+    
+    *src: National Geographic & PPN environmental*
 
 **- Reuse♻️:** As the the name suggest, it means reusing items to extend the lifespan of the product.
     For example:
@@ -24,4 +26,5 @@ thats why i took research
 
 type *$i_want_to_know* if you'd like to make one!
 
-*The definition is based on muuse.io post
+*The definition is based on muuse.io post*
+
